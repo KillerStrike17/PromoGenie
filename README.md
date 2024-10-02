@@ -68,7 +68,7 @@ The process consists of three main steps:
   
   - Sample Independence Day Images:
 
- Diwali | Backgrounds
+ Independence Day | Backgrounds
  -|-
 ![independence_1](./Assets/Background%20Variations/independence_1.jpeg) | ![independence_2](./Assets/Background%20Variations/independence_2.jpeg)
 ![independence_3](./Assets/Background%20Variations/independence_3.jpeg) | ![independence_4](./Assets/Background%20Variations/independence_4.jpeg)
@@ -137,7 +137,6 @@ e. **Relighting**
    - Applies color blending and image blending
 
 **Note: Here we can see that the depth is being added as we look at the generated image at the last in the above screemshot. the lighting has added shadow which was absent making it more realistic.**
-
 
 f. **Optional Repainting**
 
